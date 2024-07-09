@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Complaint-Box/static/css/main.3faa4ee6.css",
-    "main.js": "/Complaint-Box/static/js/main.b59c8fa1.js",
+    "main.css": "/Complaint-Box/static/css/main.eb43ea1b.css",
+    "main.js": "/Complaint-Box/static/js/main.98fc66df.js",
     "static/js/453.dd389b50.chunk.js": "/Complaint-Box/static/js/453.dd389b50.chunk.js",
     "static/media/waves.png": "/Complaint-Box/static/media/waves.8bea55409cefb184d310.png",
     "static/media/online-complaint 1.png": "/Complaint-Box/static/media/online-complaint 1.90bb713d168bdedc54e8.png",
@@ -13,7 +13,7 @@
     "static/media/Frame 154.png": "/Complaint-Box/static/media/Frame 154.7b85e2d7eaa2638c23df.png",
     "static/media/Frame 42.png": "/Complaint-Box/static/media/Frame 42.aab5e01cdf9f3f22535e.png",
     "static/media/home_icon.jpg": "/Complaint-Box/static/media/home_icon.fb0e51e82ba3f9ad36e0.jpg",
-    "static/media/stacked-steps-haikei 1.png": "/Complaint-Box/static/media/stacked-steps-haikei 1.35f1af236972167cc151.png",
+    "static/media/Faqwaves.png": "/Complaint-Box/static/media/Faqwaves.35f1af236972167cc151.png",
     "static/media/last.jpg": "/Complaint-Box/static/media/last.f6596c635599723428c4.jpg",
     "static/media/tutorial_icon.jpeg": "/Complaint-Box/static/media/tutorial_icon.320195b6830a0c95c4cd.jpeg",
     "static/media/Frame 152.png": "/Complaint-Box/static/media/Frame 152.08f518947f346dcefe70.png",
@@ -25,12 +25,12 @@
     "static/media/frame96.png": "/Complaint-Box/static/media/frame96.58fc95c8a64468971846.png",
     "static/media/Login.jpg": "/Complaint-Box/static/media/Login.d65cdfe41ba8891a82a9.jpg",
     "index.html": "/Complaint-Box/index.html",
-    "main.3faa4ee6.css.map": "/Complaint-Box/static/css/main.3faa4ee6.css.map",
-    "main.b59c8fa1.js.map": "/Complaint-Box/static/js/main.b59c8fa1.js.map",
+    "main.eb43ea1b.css.map": "/Complaint-Box/static/css/main.eb43ea1b.css.map",
+    "main.98fc66df.js.map": "/Complaint-Box/static/js/main.98fc66df.js.map",
     "453.dd389b50.chunk.js.map": "/Complaint-Box/static/js/453.dd389b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3faa4ee6.css",
-    "static/js/main.b59c8fa1.js"
+    "static/css/main.eb43ea1b.css",
+    "static/js/main.98fc66df.js"
   ]
 }
