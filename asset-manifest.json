@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Complaint-Box/static/css/main.122451ba.css",
-    "main.js": "/Complaint-Box/static/js/main.db153e39.js",
+    "main.css": "/Complaint-Box/static/css/main.d977ab55.css",
+    "main.js": "/Complaint-Box/static/js/main.6320d5b1.js",
     "static/js/453.dd389b50.chunk.js": "/Complaint-Box/static/js/453.dd389b50.chunk.js",
     "static/media/waves.png": "/Complaint-Box/static/media/waves.8bea55409cefb184d310.png",
     "static/media/bgbgbg.png": "/Complaint-Box/static/media/bgbgbg.390c0b9688d5c5672d3b.png",
     "index.html": "/Complaint-Box/index.html",
-    "main.122451ba.css.map": "/Complaint-Box/static/css/main.122451ba.css.map",
-    "main.db153e39.js.map": "/Complaint-Box/static/js/main.db153e39.js.map",
+    "main.d977ab55.css.map": "/Complaint-Box/static/css/main.d977ab55.css.map",
+    "main.6320d5b1.js.map": "/Complaint-Box/static/js/main.6320d5b1.js.map",
     "453.dd389b50.chunk.js.map": "/Complaint-Box/static/js/453.dd389b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.122451ba.css",
-    "static/js/main.db153e39.js"
+    "static/css/main.d977ab55.css",
+    "static/js/main.6320d5b1.js"
   ]
 }
