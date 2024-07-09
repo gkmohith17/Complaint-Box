@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/Complaint-Box/static/css/main.d977ab55.css",
-    "main.js": "/Complaint-Box/static/js/main.6320d5b1.js",
+    "main.css": "/Complaint-Box/static/css/main.318ee036.css",
+    "main.js": "/Complaint-Box/static/js/main.9b42c41a.js",
     "static/js/453.dd389b50.chunk.js": "/Complaint-Box/static/js/453.dd389b50.chunk.js",
     "static/media/waves.png": "/Complaint-Box/static/media/waves.8bea55409cefb184d310.png",
+    "static/media/guidance.png": "/Complaint-Box/static/media/guidance.e5b97c19c68169efd73a.png",
+    "static/media/vision.jpg": "/Complaint-Box/static/media/vision.83afa2f486c228b65101.jpg",
+    "static/media/call_icon.jpg": "/Complaint-Box/static/media/call_icon.276e665bcea0f4eaa813.jpg",
     "static/media/bgbgbg.png": "/Complaint-Box/static/media/bgbgbg.390c0b9688d5c5672d3b.png",
+    "static/media/backgroundweb 2.png": "/Complaint-Box/static/media/backgroundweb 2.2b2018da021afa16a8f9.png",
+    "static/media/about_img.jpg": "/Complaint-Box/static/media/about_img.f3f66a558bdfbf79b84a.jpg",
+    "static/media/Frame 42.png": "/Complaint-Box/static/media/Frame 42.aab5e01cdf9f3f22535e.png",
+    "static/media/home_icon.jpg": "/Complaint-Box/static/media/home_icon.fb0e51e82ba3f9ad36e0.jpg",
+    "static/media/stacked-steps-haikei 1.png": "/Complaint-Box/static/media/stacked-steps-haikei 1.35f1af236972167cc151.png",
+    "static/media/tutorial_icon.jpeg": "/Complaint-Box/static/media/tutorial_icon.320195b6830a0c95c4cd.jpeg",
+    "static/media/location_icon.jpg": "/Complaint-Box/static/media/location_icon.e0afc4ec5de68645dd22.jpg",
+    "static/media/logo.png": "/Complaint-Box/static/media/logo.ead6570e7d0e57bb9c3c.png",
     "index.html": "/Complaint-Box/index.html",
-    "main.d977ab55.css.map": "/Complaint-Box/static/css/main.d977ab55.css.map",
-    "main.6320d5b1.js.map": "/Complaint-Box/static/js/main.6320d5b1.js.map",
+    "main.318ee036.css.map": "/Complaint-Box/static/css/main.318ee036.css.map",
+    "main.9b42c41a.js.map": "/Complaint-Box/static/js/main.9b42c41a.js.map",
     "453.dd389b50.chunk.js.map": "/Complaint-Box/static/js/453.dd389b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d977ab55.css",
-    "static/js/main.6320d5b1.js"
+    "static/css/main.318ee036.css",
+    "static/js/main.9b42c41a.js"
   ]
 }
