@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Complaint-Box/static/css/main.eb43ea1b.css",
-    "main.js": "/Complaint-Box/static/js/main.98fc66df.js",
+    "main.css": "/Complaint-Box/static/css/main.96c5cb84.css",
+    "main.js": "/Complaint-Box/static/js/main.40f4c2a0.js",
     "static/js/453.dd389b50.chunk.js": "/Complaint-Box/static/js/453.dd389b50.chunk.js",
     "static/media/waves.png": "/Complaint-Box/static/media/waves.8bea55409cefb184d310.png",
     "static/media/online-complaint 1.png": "/Complaint-Box/static/media/online-complaint 1.90bb713d168bdedc54e8.png",
@@ -9,6 +9,7 @@
     "static/media/call_icon.jpg": "/Complaint-Box/static/media/call_icon.276e665bcea0f4eaa813.jpg",
     "static/media/bgbgbg.png": "/Complaint-Box/static/media/bgbgbg.390c0b9688d5c5672d3b.png",
     "static/media/backgroundweb 2.png": "/Complaint-Box/static/media/backgroundweb 2.2b2018da021afa16a8f9.png",
+    "static/media/thumbs.jpg": "/Complaint-Box/static/media/thumbs.1c83e347c4c19548e02f.jpg",
     "static/media/about_img.jpg": "/Complaint-Box/static/media/about_img.f3f66a558bdfbf79b84a.jpg",
     "static/media/Frame 154.png": "/Complaint-Box/static/media/Frame 154.7b85e2d7eaa2638c23df.png",
     "static/media/Frame 42.png": "/Complaint-Box/static/media/Frame 42.aab5e01cdf9f3f22535e.png",
@@ -25,12 +26,12 @@
     "static/media/frame96.png": "/Complaint-Box/static/media/frame96.58fc95c8a64468971846.png",
     "static/media/Login.jpg": "/Complaint-Box/static/media/Login.d65cdfe41ba8891a82a9.jpg",
     "index.html": "/Complaint-Box/index.html",
-    "main.eb43ea1b.css.map": "/Complaint-Box/static/css/main.eb43ea1b.css.map",
-    "main.98fc66df.js.map": "/Complaint-Box/static/js/main.98fc66df.js.map",
+    "main.96c5cb84.css.map": "/Complaint-Box/static/css/main.96c5cb84.css.map",
+    "main.40f4c2a0.js.map": "/Complaint-Box/static/js/main.40f4c2a0.js.map",
     "453.dd389b50.chunk.js.map": "/Complaint-Box/static/js/453.dd389b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb43ea1b.css",
-    "static/js/main.98fc66df.js"
+    "static/css/main.96c5cb84.css",
+    "static/js/main.40f4c2a0.js"
   ]
 }
