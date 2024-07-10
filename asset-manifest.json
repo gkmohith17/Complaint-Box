@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Complaint-Box/static/css/main.96c5cb84.css",
-    "main.js": "/Complaint-Box/static/js/main.40f4c2a0.js",
+    "main.css": "/Complaint-Box/static/css/main.7aa7f680.css",
+    "main.js": "/Complaint-Box/static/js/main.90ca280a.js",
     "static/js/453.dd389b50.chunk.js": "/Complaint-Box/static/js/453.dd389b50.chunk.js",
     "static/media/waves.png": "/Complaint-Box/static/media/waves.8bea55409cefb184d310.png",
     "static/media/online-complaint 1.png": "/Complaint-Box/static/media/online-complaint 1.90bb713d168bdedc54e8.png",
@@ -26,12 +26,12 @@
     "static/media/frame96.png": "/Complaint-Box/static/media/frame96.58fc95c8a64468971846.png",
     "static/media/Login.jpg": "/Complaint-Box/static/media/Login.d65cdfe41ba8891a82a9.jpg",
     "index.html": "/Complaint-Box/index.html",
-    "main.96c5cb84.css.map": "/Complaint-Box/static/css/main.96c5cb84.css.map",
-    "main.40f4c2a0.js.map": "/Complaint-Box/static/js/main.40f4c2a0.js.map",
+    "main.7aa7f680.css.map": "/Complaint-Box/static/css/main.7aa7f680.css.map",
+    "main.90ca280a.js.map": "/Complaint-Box/static/js/main.90ca280a.js.map",
     "453.dd389b50.chunk.js.map": "/Complaint-Box/static/js/453.dd389b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c5cb84.css",
-    "static/js/main.40f4c2a0.js"
+    "static/css/main.7aa7f680.css",
+    "static/js/main.90ca280a.js"
   ]
 }
